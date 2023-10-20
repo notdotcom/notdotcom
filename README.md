@@ -1,5 +1,5 @@
 <p>
-  <img height="40px" src="https://github.com/notdotcom/notdotcom/assets/148507774/ff1e9276-5729-4e85-a758-1f8e37c51fcf">
+  <img height="40px" src="https://github.com/notdotcom/notdotcom/assets/148507774/6d7500fe-04e9-4b2f-bd46-4c6330c74f19">
   <span style="font-size: 100px">not.com</span>
 </p>
 
