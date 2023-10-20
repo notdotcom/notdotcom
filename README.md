@@ -1,6 +1,6 @@
 <p>
   <img height="40px" src="https://github.com/notdotcom/notdotcom/assets/148507774/cc39b851-5c97-4e9f-b817-d0a602345016">
-  <span style="font-size: 100px">New Online Technology</span>
+  <span style="font-size: 100px">not.com</span>
 </p>
 
 # New Online Technology
