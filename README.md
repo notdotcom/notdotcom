@@ -1,5 +1,5 @@
 <p style="display: flex; align-content: baseline">
-  <img src="https://github.com/notdotcom/notdotcom/assets/148507774/266d111b-81d5-42e3-9ee0-77930df46c83">
+  <img src="https://github.com/notdotcom/notdotcom/assets/148507774/cc39b851-5c97-4e9f-b817-d0a602345016">
   <span style="font-size: 100px">not.com</span>
 </p>
 
