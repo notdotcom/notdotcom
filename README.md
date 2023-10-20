@@ -1,11 +1,11 @@
 <p>
   <img height="40px" src="https://github.com/notdotcom/notdotcom/assets/148507774/cc39b851-5c97-4e9f-b817-d0a602345016">
-  <span style="font-size: 100px">not.com</span>
+  <span style="font-size: 100px">New Online Technology</span>
 </p>
 
 # New Online Technology
 
-<p>Welcome to New Online Technology! As the name indicates, we specialize in new techologies for the Web (and the Internet generally). Our work falls loosely into one of three categories:</p>
+<p>Welcome to New Online Technology! As the name suggests, we specialize in new techologies for the Web (and the Internet generally). Our work falls loosely into one of three categories:</p>
 
 1. "start up the startup" - We work with founders to develop proof-of-concept implementations. The goal is to get it done quickly to demonstrate that it's a good idea, or to fail fast.
 2. "open up captive non-core software" - When consulting, we often create novel solutions to common coding problems. When the solution is not core to the client's mission, it's in everybody's interest to open the software. The client benefits: they are no longer paying for development, they benefit from community improvements, and they pay-it-forward to the open source community.
