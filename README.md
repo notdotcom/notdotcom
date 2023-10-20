@@ -15,7 +15,7 @@ You won't see any projects here because they are either owned by the founders or
 
 Here are some of the ideas we are incubating:
 
-* Thing Control - Automatically design, manufacture, and assemble PCBs (printed circuit boards), reducing cost of high mix prototyping by three orders of magnitude
+* Thing Control - Automatically design, manufacture, and assemble PCBs, reducing cost of high mix prototyping by three orders of magnitude
 * Regaragitate - A streamlined way to list your extra items for sale, for free, or for the bin.
 * dogprints.com - The perfect gift for dog lovers who have everything
 * rtSQL - Real-time notifications (similar to Firebase real-time database) from MySQL to React
