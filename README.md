@@ -3,9 +3,9 @@
   <span style="font-size: 50px">not.com</span>
 </p>
 
-# New Online Technology
+# Next Online Technology
 
-<p>Welcome to New Online Technology! As the name suggests, we specialize in new techologies for the Web (and the Internet generally). Our work falls loosely into one of three categories:</p>
+<p>Welcome to Next Online Technology! As the name suggests, we specialize in new techologies for the Web (and the Internet generally) that we think will be the next evolution of a product category. Our work falls loosely into one of three areas:</p>
 
 1. "start up the startup" - We work with founders to develop proof-of-concept implementations. The goal is to get it done quickly to demonstrate that it's a good idea, or to fail fast.
 2. "open up captive non-core software" - When consulting, we often create novel solutions to common coding problems. When the solution is not core to the client's mission, it's in everybody's interest to open the software. The client benefits: they are no longer paying for development, they benefit from community improvements, and they pay-it-forward to the open source community.
