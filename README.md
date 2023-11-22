@@ -25,3 +25,6 @@ Here are some of the ideas we are incubating:
 We are located primarily in Silicon Valley
 
 contact@not.com
+
+Tim Kay, CEO
+timkay@not.com
